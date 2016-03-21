@@ -1,2 +1,7 @@
-# iRedrock-Tutor-Allocation
-移动部iOS导师分配
+# 移动部iOS导师分配（模拟版）
+
+|导师名|学员名额|学员名单|
+|:-----|:-----:|-----|
+|万致远|3~4名|XXX、XXX、XXX、XXX|
+|张润峰|2~3名|XXX、XXX、XXX|
+|周维康|1~2名|XXX、XXX|
